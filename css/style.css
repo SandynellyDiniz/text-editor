@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+}
+
+#buttons{
+    width: 35%;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-radius:10px;
+    border-color: #6a442d;
+}
+
+textarea{
+    width: 535px;
+    height: 300px;
+    resize: none;
+    border-radius: 10px;
+}
+
+
+#bold, #italic{
+    border-style:solid;
+    border-color: #6a442d;
+}
+#bold:hover, #italic:hover{
+    color: white;
+    background-color: #6a442d;
+}
+
+
+#right, #left , #center{
+    border-style: solid;
+    border-color:#6a442d;
+}
+#right:hover, #left:hover, #center:hover{
+    color: white;
+    background-color: #6a442d;
+}
+
+
+
+#uppercase, #lowercase , #uppLow{
+    border-style: solid;
+    border-color: #6a442d;
+}
+#uppercase:hover, #lowercase:hover , #uppLow:hover{
+    color: white;
+    background-color: #6a442d;
+}
+
+
+#clearText{
+    border-style: solid;
+    border-color: #6a442d;
+}
+#clearText:hover{
+    color: white;
+    background-color: #af7a4e;
+}
+
+
+
+#saveButton:hover{
+    color: white;
+    background-color: #6a442d;
+}
